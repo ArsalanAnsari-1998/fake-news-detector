@@ -25,6 +25,7 @@ A machine learning web app that detects fake news articles and explains **why** 
 
 ## Project structure
 
+```
 fake-news-detector/
 ├── app.py              # Streamlit web app
 ├── data.py             # Load & split WELFake dataset
@@ -35,6 +36,7 @@ fake-news-detector/
 ├── shap_global.png     # Global feature importance plot
 ├── shap_local.png      # Local SHAP waterfall example
 └── requirements.txt    # Dependencies
+```
 
 ---
 
